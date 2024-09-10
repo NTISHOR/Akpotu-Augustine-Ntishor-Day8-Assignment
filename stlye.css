@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #00698f;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #00698f;
+  }
+  
+  a:hover {
+    color: #00698f;
+  }
